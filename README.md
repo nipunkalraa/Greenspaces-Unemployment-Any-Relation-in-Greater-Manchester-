@@ -1,6 +1,6 @@
 The two datasets were part of a different project. I noticed a pattern. Could there be any correlation between the two?
 
-# Greenspaces-Unemployment-Any-Relation-in-Greater-Manchester-
+# Greenspaces-Unemployment-Any-Relation-in-Greater-Manchester-?
 This project analyses the spatial relationship between green spaces and unemployment rates among non-white populations (ages 16-49) in Greater Manchester, UK. The analysis explores potential environmental justice issues by examining whether areas with higher unemployment rates among ethnic minorities have less access to green spaces.
 
 # See the 'Code_Greenspace_&_Unemployment_(non_white)_in_Greater_Manchester'. The project has extensive markdowns. ![image](https://github.com/user-attachments/assets/8788e19b-60aa-490e-b304-9b6af890e81c)
