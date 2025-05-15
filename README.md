@@ -30,6 +30,8 @@ Visually analysed potential correlations between these variables.
 
 # 💡 Conclusions
 The analysis shows a slight link between higher unemployment and lower green space density in specific areas (the city centre and northeast). However, the overall distribution of green spaces appears fairly even across the region, suggesting that environmental justice issues related to green space access are not widespread in Greater Manchester.
+![Unem_GS_side_by_side](https://github.com/user-attachments/assets/183dd524-2e90-49d7-b3b4-8743c096dc25)
+
 
 # 🔮 Future Work
 
