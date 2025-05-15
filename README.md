@@ -33,8 +33,8 @@ The analysis shows a slight link between higher unemployment and lower green spa
 
 # 🔮 Future Work
 
-Perform hotspot analysis using Getis-Ord Gi* statistics to identify significant clusters of green spaces.
+Perform hotspot analysis using Getis-Ord Gi* statistics to identify significant clusters of green spaces. **(Will be done within the next few weeks)**
 
 Convert point data to accessibility metrics (e.g., distance to nearest green space, green space area within walking distance).
 
-Include additional socioeconomic variables to build a more comprehensive model.
+**Include additional socioeconomic variables to build a more comprehensive model.**
